@@ -33,7 +33,7 @@ $ node app.js
 ```
 Quando confirmado que a aplicação está rodando, abra a url ``http://localhost:3000/`` ou ``http://127.0.0.1:3000/`` no navegador. Para fazer criar um usuário, digite ``criar-atualizar-usuario?nome=nome&idade=numero&id=numero`` no final da url.
 
-Exemplos:
+Exemplo:
 ```
 http://localhost:3000/criar-atualizar-usuario?nome=erik&idade=80&id=1
 ```
