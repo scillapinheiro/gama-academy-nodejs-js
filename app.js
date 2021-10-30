@@ -8,7 +8,7 @@ const fs = require('fs');
 const hostname = '127.0.0.1'; // localhost
 const port = 3000;
 
-// Implementação da redra de negócio
+// Implementação da regra de negócio
 const server = http.createServer((req, res) => {
 
   var resposta;
@@ -19,7 +19,7 @@ const server = http.createServer((req, res) => {
   // Criar um usuário - Atualizar um usuário
   if(urlparse.pathname == '/criar-atualizar-usuario'){
 
-    // Salvar informações
+    // Salvar as informações
     fs.writeFile('users/' + params.id + '.txt', JSON.stringify(params), function (err) {
       if (err) throw err;
       console.log('Saved!');
