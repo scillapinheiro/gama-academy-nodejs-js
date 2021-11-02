@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="#-Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-executando-o-projeto">Executando o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#-professor(a)">Professor(a)</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="##-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -21,7 +22,6 @@
 Aplicação simples para criação, alteração, busca e remoção de usuários.
 
 ## :rocket: Tecnologias
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -46,6 +46,10 @@ Para encontrar um usuário já criado, digite ``selecionar-usuario?id=numero``.
 E para remover, digite ``remover-usuario?id=numero``.
 
 Em todas as ações, será impresso no navegador a confirmação da execução.
+
+## :green_heart: Professor(a)
+Érik Borges
+| :---: |
 
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
